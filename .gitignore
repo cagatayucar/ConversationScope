@@ -1,0 +1,32 @@
+# Java compiled binaries
+*.class
+
+# IntelliJ IDEA #
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Maven #
+# log/
+target/
+
+# Package Files #
+*.war
+*.ear
+#*.jar
+
+# Bitronix Transaction Log
+*.tlog
+
+# Whatever log
+*.log
+
+# Mac desktop
+.DS_Store
+
+# Client deployment folder
+www/
+
+# Atlassian connector for intellij plugin
+atlassian-ide-plugin.xml
